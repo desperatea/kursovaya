@@ -1,0 +1,39 @@
+body{
+background-color: #FFF;
+margin: 0;
+font-family: 'DIN Pro Light';
+}
+font-face {
+font-family: 'DIN Pro Light';
+src: url('../font/DINPro-Light.eot');
+src: url('../font/DINPro-Light.eot?#iefix') format('embedded-opentype'),
+url('../font/DINPro-Light.woff') format('woff'),
+url('../font/DINPro-Light.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+.text_guitar{
+  width: 600px;
+float: right;
+margin-right: 185px;
+margin-top: 100px;
+}
+.main2{
+  margin-top: 20px;
+}
+.h1_tovar{
+  text-align: center;
+    margin: 25px 0 60px 0;
+}
+.tovar img{
+  max-width: 220px;
+  max-height: 220px;
+}
+#wrapper{
+  width: 500px;
+  height: 1000px;
+  margin: 30px auto;
+  border: 2px solid #c8c8c8;
+  padding: 10px;
+}
